@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "tcl86t.dll;." --add-data "tk86t.dll;." aislador_sismico_asce7.py
